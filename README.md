@@ -88,9 +88,7 @@ Without thorough testing, software can fail to meet expectations, cause security
 
 ---
 
-## 📂 Example Folder Structure
-
-Here’s an example of how the project folder might be structured:
+## 📂
 
 ```plaintext
 

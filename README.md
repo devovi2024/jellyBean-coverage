@@ -94,6 +94,5 @@ Here’s an example of how the project folder might be structured:
 
 ```plaintext
 
-  ├── /images
-      ├── jelly-bean.jpg           # Example image of a jelly bean
+  ├── Jelly Bean Coverage.png
 
